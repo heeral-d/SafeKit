@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:design:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/2bfda70fe10f6bc52160d4e7a84d0cb8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/dfd59d51f0477e6408708d150fa68c9f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/f573ee1b6ea5f9177ef7c240292ae65a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-location-8.1.0.aar/a780fad4493debd23ffa4cc8c0fbe0a1/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/1bd99f33c856f0b9e92d6595a81aadc8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/8e74285e68d513f3bb7e2a8817bc4056/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.1.aar/0572255c1be8b31a3bc5fc6b87f67c72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-base-8.1.0.aar/190799b45c7e2e4748a5f2e85ebd0f72/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/34e287376c3f4c0a318fceb91a3da6ad/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/2108d8750fa66dce72c1b5c3e766e479/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:4:5-46
+		INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+		INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:7:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:8:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:10:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:11:5-81
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:13:22-69
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:14:5-98
+	android:required
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:14:72-95
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:14:19-71
+application
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:15:5-55:19
+MERGED from [com.android.support:design:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/2bfda70fe10f6bc52160d4e7a84d0cb8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/2bfda70fe10f6bc52160d4e7a84d0cb8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/dfd59d51f0477e6408708d150fa68c9f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/dfd59d51f0477e6408708d150fa68c9f/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/f573ee1b6ea5f9177ef7c240292ae65a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/f573ee1b6ea5f9177ef7c240292ae65a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-location-8.1.0.aar/a780fad4493debd23ffa4cc8c0fbe0a1/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-location-8.1.0.aar/a780fad4493debd23ffa4cc8c0fbe0a1/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/1bd99f33c856f0b9e92d6595a81aadc8/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/1bd99f33c856f0b9e92d6595a81aadc8/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/8e74285e68d513f3bb7e2a8817bc4056/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/8e74285e68d513f3bb7e2a8817bc4056/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/34e287376c3f4c0a318fceb91a3da6ad/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/34e287376c3f4c0a318fceb91a3da6ad/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/2108d8750fa66dce72c1b5c3e766e479/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/2108d8750fa66dce72c1b5c3e766e479/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:18:9-34
+	tools:ignore
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:21:9-48
+	android:icon
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:20:9-40
+activity#com.example.anask.myapplication.MainActivity
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:24:13-38
+	android:theme
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.example.anask.myapplication.CheckCertainty
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:33:13-35
+	android:theme
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:34:13-61
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:32:19-49
+intent-filter#action:name:com.example.anask.myapplication.CheckCertainty+category:name:android.intent.category.DEFAULT
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:35:13-39:29
+action#com.example.anask.myapplication.CheckCertainty
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:36:17-89
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:36:25-86
+category#android.intent.category.DEFAULT
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:37:27-73
+activity#com.example.anask.myapplication.About
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:41:9-48:20
+	android:label
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:42:13-42
+	android:theme
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:41:19-40
+intent-filter#action:name:com.example.anask.myapplication.About+category:name:android.intent.category.DEFAULT
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:44:13-47:29
+action#com.example.anask.myapplication.About
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:45:17-80
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:45:25-77
+service#com.example.anask.myapplication.ShakeService
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:49:9-102
+	android:enabled
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:49:18-40
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:49:41-100
+meta-data#com.google.android.gms.version
+ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:52:9-54:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/34e287376c3f4c0a318fceb91a3da6ad/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/34e287376c3f4c0a318fceb91a3da6ad/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:54:13-66
+	android:name
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml:53:13-58
+uses-sdk
+INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/2bfda70fe10f6bc52160d4e7a84d0cb8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/2bfda70fe10f6bc52160d4e7a84d0cb8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/dfd59d51f0477e6408708d150fa68c9f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/dfd59d51f0477e6408708d150fa68c9f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/f573ee1b6ea5f9177ef7c240292ae65a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/f573ee1b6ea5f9177ef7c240292ae65a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-location-8.1.0.aar/a780fad4493debd23ffa4cc8c0fbe0a1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-location-8.1.0.aar/a780fad4493debd23ffa4cc8c0fbe0a1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/1bd99f33c856f0b9e92d6595a81aadc8/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/1bd99f33c856f0b9e92d6595a81aadc8/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/8e74285e68d513f3bb7e2a8817bc4056/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/8e74285e68d513f3bb7e2a8817bc4056/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.1.aar/0572255c1be8b31a3bc5fc6b87f67c72/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.1.aar/0572255c1be8b31a3bc5fc6b87f67c72/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-base-8.1.0.aar/190799b45c7e2e4748a5f2e85ebd0f72/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-base-8.1.0.aar/190799b45c7e2e4748a5f2e85ebd0f72/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/34e287376c3f4c0a318fceb91a3da6ad/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/34e287376c3f4c0a318fceb91a3da6ad/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/2108d8750fa66dce72c1b5c3e766e479/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/2108d8750fa66dce72c1b5c3e766e479/AndroidManifest.xml:20:5-43
+INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/dfd59d51f0477e6408708d150fa68c9f/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+		INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+		INJECTED from /home/krunal-91/Downloads/Crash-Alert/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/krunal-91/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/40416eb915f1a75ae6a28df6dc879622/AndroidManifest.xml:25:8-31
